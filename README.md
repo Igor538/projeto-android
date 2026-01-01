@@ -1,4 +1,4 @@
-# 📱 Curiosidades de Tecnologia --- Mascote do Android
+# Mascote do Android
 
 Este projeto é um site estático desenvolvido em **HTML5 e CSS3** que
 apresenta um artigo completo sobre a **história do mascote do Android
@@ -35,27 +35,6 @@ foco em estrutura semântica, responsividade e boas práticas.
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura do Projeto
-
-devlinks/ ├── index.html ├── estilo/ │ └── style.css ├── imagens/ │ └──
-arquivos de imagem └── README.md
-
-------------------------------------------------------------------------
-
-## 🚀 Como Visualizar o Projeto
-
-### Localmente
-
-1.  Clone o repositório: git clone
-    https://github.com/Igor538/devlinks.git
-2.  Abra o arquivo `index.html` no navegador.
-
-### GitHub Pages
-
-https://igor538.github.io/devlinks/
-
-------------------------------------------------------------------------
-
 ## 📚 Aprendizados
 
 -   HTML semântico
@@ -68,11 +47,3 @@ https://igor538.github.io/devlinks/
 ## ✍️ Créditos
 
 -   Conteúdo: **Gustavo Guanabara** --- Curso em Vídeo\
--   Desenvolvedor: **Igor Moraes**
-
-------------------------------------------------------------------------
-
-## ⭐ Status do Projeto
-
-✅ Concluído\
-📌 Projeto educacional

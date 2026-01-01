@@ -12,12 +12,12 @@ foco em estrutura semântica e responsividade
 
 ## 🧠 Conteúdo do Site
 
--   📖 História do mascote do Android\
--   🤖 Primeira versão criada por Dan Morrill (Dandroids)\
--   🎨 Criação do Bugdroid por Irina Blok\
--   🍬 Lista das versões do Android nomeadas por doces\
--   🎥 Vídeo incorporado do YouTube\
--   🖼️ Imagens responsivas\
+-   📖 História do mascote do Android
+-   🤖 Primeira versão criada por Dan Morrill (Dandroids)
+-   🎨 Criação do Bugdroid por Irina Blok
+-   🍬 Lista das versões do Android nomeadas por doces
+-   🎥 Vídeo incorporado do YouTube
+-   🖼️ Imagens responsivas
 -   📱 Layout adaptado para dispositivos móveis
 
 ------------------------------------------------------------------------

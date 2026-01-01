@@ -6,7 +6,7 @@ apresenta um artigo completo sobre a **história do mascote do Android
 às versões do sistema Android.
 
 O projeto faz parte de estudos em **desenvolvimento web front-end**, com
-foco em estrutura semântica, responsividade e boas práticas.
+foco em estrutura semântica e responsividade
 
 ------------------------------------------------------------------------
 
@@ -28,6 +28,7 @@ foco em estrutura semântica, responsividade e boas práticas.
     -   Estrutura semântica
     -   Tags de mídia
     -   Acessibilidade básica
+      
 -   **CSS3**
     -   Estilização externa
     -   Responsividade
@@ -40,10 +41,9 @@ foco em estrutura semântica, responsividade e boas práticas.
 -   HTML semântico
 -   Responsividade
 -   Organização de projetos front-end
--   Boas práticas de código
 
 ------------------------------------------------------------------------
 
 ## ✍️ Créditos
 
--   Conteúdo: **Gustavo Guanabara** --- Curso em Vídeo\
+-   Conteúdo: **Gustavo Guanabara** --- Curso em Vídeo
